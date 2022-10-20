@@ -1,4 +1,4 @@
-# Electron-Rounded-app-corners
+# Electron Rouded Corners
 
 This is a simple way to make rounded app corners in electron fiddle or whatever u use to debug electron apps.
 
