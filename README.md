@@ -2,6 +2,9 @@
 
 This is a simple way to make rounded app corners in electron fiddle or whatever u use to debug electron apps.
 
+<mark>Marked text</mark>
+
+
 ```javascript
 // Modules to control application life and create native browser window
 const {app, BrowserWindow} = require('electron')
